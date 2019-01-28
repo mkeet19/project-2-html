@@ -5,7 +5,7 @@
       rgba(0, 0, 0, 0) 80%,
       rgba(0, 0, 0, 0.7) 100%
     ),
-    url(C:/Users/DELL/Downloads/carlos-muza-84523-unsplash.jpg);
+    url(./carlos-muza-84523-unsplash.jpg);
   background-size: cover;
   background-position: 50% 0%;
   height: 80vh;
@@ -50,7 +50,7 @@ nav svg {
 }
 
 .hero-content {
-  color: whiye;
+  color: white;
   margin: 0;
   max-width: 900px;
   width: 90%;
